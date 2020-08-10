@@ -9,4 +9,5 @@ COLUMN TABLE "com.sap.hana.example::CUSTOMERS" (
    5004 5004 5004
    5005 5005
    5006
-   5007)
+   5007
+   5008)
